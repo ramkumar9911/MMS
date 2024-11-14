@@ -1,0 +1,13 @@
+C:\MMS\MMS\src\MMS.Domain\bin\Debug\net9.0\MMS.Domain.deps.json
+C:\MMS\MMS\src\MMS.Domain\bin\Debug\net9.0\MMS.Domain.dll
+C:\MMS\MMS\src\MMS.Domain\bin\Debug\net9.0\MMS.Domain.pdb
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.csproj.AssemblyReference.cache
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.AssemblyInfoInputs.cache
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.AssemblyInfo.cs
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.csproj.CoreCompileInputs.cache
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.sourcelink.json
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.dll
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\refint\MMS.Domain.dll
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\MMS.Domain.pdb
+C:\MMS\MMS\src\MMS.Domain\obj\Debug\net9.0\ref\MMS.Domain.dll

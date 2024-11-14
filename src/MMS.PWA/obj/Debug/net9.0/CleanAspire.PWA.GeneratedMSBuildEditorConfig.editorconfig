@@ -1,0 +1,116 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.MudDebugAnalyzer = 
+build_property.MudAllowedAttributePattern = 
+build_property.MudIllegalParameters = 
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MMS.PWA
+build_property.RootNamespace = MMS.PWA
+build_property.ProjectDir = C:\MMS\MMS\src\MMS.PWA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\MMS\MMS\src\MMS.PWA
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/MMS/MMS/src/MMS.PWA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Components/Carousel.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJvdXNlbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Components/CarouselReverse.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDYXJvdXNlbFJldmVyc2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Components/ConfirmationDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25maXJtYXRpb25EaWFsb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Components/MudEnumSelect.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNdWRFbnVtU2VsZWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/Appbar.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEFwcGJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/ApplicationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEFwcGxpY2F0aW9uTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/AuthenticationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEF1dGhlbnRpY2F0aW9uTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/Breadcrumbs.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEJyZWFkY3J1bWJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XExvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/MudBlazorLogo.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE11ZEJsYXpvckxvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/Redirections/RedirectToHome.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0aW9uc1xSZWRpcmVjdFRvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/Redirections/RedirectToSignIn.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0aW9uc1xSZWRpcmVjdFRvU2lnbkluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFJlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/UserMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFVzZXJNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Pages/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bn4wyeqmkg
+
+[C:/MMS/MMS/src/MMS.PWA/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ym3eneqd7e

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\obj\\Debug\\net9.0\\scopedcss\\bundle\\MMS.PWA.styles.css",
+      "PackagePath": "staticwebassets\\MMS.PWA.styles.css"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\js\\carousel.js",
+      "PackagePath": "staticwebassets\\js\\carousel.js"
+    },
+    {
+      "Id": "C:\\MMS\\MeterManagement\\src\\MMS.PWA\\wwwroot\\manifest.webmanifest",
+      "PackagePath": "staticwebassets\\manifest.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MMS.PWA.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MMS.PWA.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MMS.PWA.props",
+      "PackagePath": "build\\MMS.PWA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MMS.PWA.props",
+      "PackagePath": "buildMultiTargeting\\MMS.PWA.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MMS.PWA.props",
+      "PackagePath": "buildTransitive\\MMS.PWA.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

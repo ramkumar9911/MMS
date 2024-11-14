@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MMS\\MMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3139C843-9139-42E8-9E1B-705E484BBA3A}|src\\MMS.AppHost\\MMS.AppHost.csproj|c:\\mms\\MMS\\src\\MMS.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3139C843-9139-42E8-9E1B-705E484BBA3A}|src\\MMS.AppHost\\MMS.AppHost.csproj|solutionrelative:src\\MMS.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1FBFD-7831-4587-9940-F8C9C2C7C3ED}|src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj|c:\\mms\\MMS\\src\\MMS.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF1FBFD-7831-4587-9940-F8C9C2C7C3ED}|src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj|solutionrelative:src\\MMS.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|c:\\mms\\MMS\\src\\MMS.pwa\\services\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|solutionrelative:src\\MMS.pwa\\services\\localstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|c:\\mms\\MMS\\src\\MMS.pwa\\layout\\appbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|solutionrelative:src\\MMS.pwa\\layout\\appbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|c:\\mms\\MMS\\src\\MMS.pwa\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|solutionrelative:src\\MMS.pwa\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|c:\\mms\\MMS\\src\\MMS.pwa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|solutionrelative:src\\MMS.pwa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|c:\\mms\\MMS\\src\\MMS.pwa\\themes\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163F2800-75F5-435D-8C09-EC7D9F351944}|src\\MMS.PWA\\MMS.PWA.csproj|solutionrelative:src\\MMS.pwa\\themes\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF1FBFD-7831-4587-9940-F8C9C2C7C3ED}|src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj|c:\\mms\\MMS\\src\\MMS.servicedefaults\\mms.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCF1FBFD-7831-4587-9940-F8C9C2C7C3ED}|src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj|solutionrelative:src\\MMS.servicedefaults\\mms.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MMS.AppHost\\Program.cs",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.AppHost\\Program.cs",
+              "RelativeToolTip": "src\\MMS.AppHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:04:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\MMS.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "src\\MMS.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:01:46.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalStorageService.cs",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.PWA\\Services\\LocalStorageService.cs",
+              "RelativeDocumentMoniker": "src\\MMS.PWA\\Services\\LocalStorageService.cs",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.PWA\\Services\\LocalStorageService.cs",
+              "RelativeToolTip": "src\\MMS.PWA\\Services\\LocalStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T02:01:01.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navbar.razor",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\Navbar.razor",
+              "RelativeDocumentMoniker": "src\\MMS.PWA\\Layout\\Navbar.razor",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\Navbar.razor",
+              "RelativeToolTip": "src\\MMS.PWA\\Layout\\Navbar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:53:19.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appbar.razor",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\Appbar.razor",
+              "RelativeDocumentMoniker": "src\\MMS.PWA\\Layout\\Appbar.razor",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\Appbar.razor",
+              "RelativeToolTip": "src\\MMS.PWA\\Layout\\Appbar.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:48:52.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "src\\MMS.PWA\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.PWA\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "src\\MMS.PWA\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T01:43:57.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.PWA\\Themes\\Theme.cs",
+              "RelativeDocumentMoniker": "src\\MMS.PWA\\Themes\\Theme.cs",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.PWA\\Themes\\Theme.cs",
+              "RelativeToolTip": "src\\MMS.PWA\\Themes\\Theme.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAYwPAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T01:42:34.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MMS.ServiceDefaults.csproj",
+              "DocumentMoniker": "C:\\MMS\\MMS\\src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj",
+              "ToolTip": "C:\\MMS\\MMS\\src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj",
+              "RelativeToolTip": "src\\MMS.ServiceDefaults\\MMS.ServiceDefaults.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T01:28:04.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
